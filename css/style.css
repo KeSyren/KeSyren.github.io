@@ -1,6 +1,5 @@
 
 /* Default css file for jemdoc. */
-
 table#tlayout {
     border: none;
     border-collapse: separate;
@@ -369,3 +368,9 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+.font_bk {
+border:1px; 
+solid #ccc;
+}
+
