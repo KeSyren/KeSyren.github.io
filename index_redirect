@@ -10,6 +10,6 @@
     </head>
     <body>
         <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-        If you are not redirected automatically, follow this <a href='http://qwang.github.io'>link to my new page</a>.
+        If you are not redirected automatically, follow this <a href='http://qwang.github.io'>link</a> to my new page</a>.
     </body>
 </html>
